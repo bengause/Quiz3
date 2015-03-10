@@ -2,7 +2,7 @@ package Code;
 
 public class Triangle extends GeometricObject {
 
-	// Create 3 double data fields
+	// Create 3 double data fields 
 	private double side1 = 1.0;
 	private double side2 = 1.0;
 	private double side3 = 1.0;
